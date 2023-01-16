@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Removal of showModalDialog() and the Enterprise"
 date:   2014-09-18 20:32:17 +0000
 categories: Development

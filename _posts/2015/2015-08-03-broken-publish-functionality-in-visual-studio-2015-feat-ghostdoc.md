@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Broken “Publish” functionality in Visual Studio 2015 (feat. GhostDoc)"
 date:   2015-08-03 20:56:17 +0000
 categories: Tooling

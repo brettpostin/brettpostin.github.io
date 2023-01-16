@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "TypeScript Support in Visual Studio 2013"
 date:   2013-12-12 20:01:17 +0000
 categories: Tooling

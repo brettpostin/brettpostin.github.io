@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Durandal with ASP.NET MVC Conventions"
 date:   2013-03-27 16:07:17 +0000
 categories: Development

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Chrome 50 and table-cell percentage heights"
 date:   2016-04-16 21:01:17 +0000
 categories: Development
