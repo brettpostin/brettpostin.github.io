@@ -1,17 +1,20 @@
 ---
+layout: single
 title: About
 permalink: /about/
+author_profile: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello and welcome to my personal blog!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Brett Postin and I am a Principal Architect. I have been working in the software industry since 2006, and during that time, I have gained a wealth of experience in designing and implementing solutions for a variety of problem domains. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My main areas of expertise are in application architecture, cloud architecture, domain driven design, Azure/.NET development and frontend development. 
 
+On this blog, I share thoughts and insights on issues I encounter, along with solutions and the lessons I learned from them. 
 
-[jekyll-organization]: https://github.com/jekyll
+I typically blog about things that, at the time of writing, have little to no coverage and could use another voice. I hope that by sharing my experiences, it will save others time and effort if they encounter the same challenges.
+
+If you have any questions or comments about anything you read on my blog, please feel free to reach out to me.
+
+Thank you for visiting my blog, and I hope you find it informative and helpful!
